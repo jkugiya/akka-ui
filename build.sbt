@@ -2,7 +2,7 @@ name := "akka-ui"
 
 version := "0.5.0"
 
-scalaVersion := "2.13.2"
+scalaVersion := "2.13.3"
 
 enablePlugins(ScalaJSPlugin)
 
